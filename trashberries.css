@@ -136,3 +136,7 @@ input[type=checkbox]:checked + label:before {
 }
 .layer:nth-child(6) button {
 }
+
+.tops{
+    margin-top: 250px
+}
