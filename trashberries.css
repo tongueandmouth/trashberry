@@ -62,9 +62,9 @@ input[type=checkbox]:checked + label:before {
 
 .container {
   position: relative;
-  max-width: 600px;
+  max-width: 275px;
   margin: 0 auto;
-  padding: 5%;
+  padding: 5%;  
 }
 
 .container--offset {
@@ -138,5 +138,9 @@ input[type=checkbox]:checked + label:before {
 }
 
 .tops{
-    margin-top: 250px
+    margin-top: 30px
+}
+
+.middle{
+    margin-left: 100px
 }
